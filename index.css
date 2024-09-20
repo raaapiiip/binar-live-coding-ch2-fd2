@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+p {
+    color: black;
+}
+
+#title {
+    text-align: left;
+    padding-top: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#btn-submit {
+    color: white;
+    background-color: blue;
+}
+
+#btn-ignore {
+    color: white;
+    background-color: red;
+}
